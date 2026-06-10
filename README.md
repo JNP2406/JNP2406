@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently
 
 <!--
 **JNP2406/JNP2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
